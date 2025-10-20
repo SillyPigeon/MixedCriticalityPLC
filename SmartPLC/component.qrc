@@ -1,0 +1,28 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>R90.png</file>
+        <file>R.png</file>
+        <file>dz.JPG</file>
+        <file>FC90.png</file>
+        <file>FC.png</file>
+        <file>C90.png</file>
+        <file>C.png</file>
+        <file>L.png</file>
+        <file>I.png</file>
+        <file>FL.png</file>
+        <file>E.png</file>
+        <file>L90.png</file>
+        <file>I90.png</file>
+        <file>FL90.png</file>
+        <file>E90.png</file>
+        <file>VS90.png</file>
+        <file>CS90.png</file>
+        <file>CS.png</file>
+        <file>VS.png</file>
+        <file>T90.png</file>
+        <file>T.png</file>
+        <file>K.png</file>
+        <file>K90.png</file>
+        <file>Scope.png</file>
+    </qresource>
+</RCC>
